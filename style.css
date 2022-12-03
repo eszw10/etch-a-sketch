@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 960px;
+    width: 960px;
+    place-items: center;
+}
+.bord {
+    border: 1px solid black;
+}
+
+.box {
+    background-color: red;
+}
